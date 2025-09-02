@@ -6,7 +6,7 @@ The goal of this project is to build a model that can help predict the patterns 
 Team
 Angela Iraya: 3 annotated sources, summary
 Smrithi Murali: Research Questions, Initial Success Measures, 3 annotated sources
-Monish Manne: Problem statement, 2 annotated sources
+Monish Manne: Problem statement, 3 annotated sources
 
 Repo Structure
 /data/               
